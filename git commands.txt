@@ -10,5 +10,7 @@ git push origin dev-Rahul
 git checkout main
 git pull origin main
 
+# change ur branch and update
+git checkout dev- 
 git fetch origin
 git merge origin/main
